@@ -76,4 +76,10 @@ I will be using the auxilary function styling, it's just my preference.
 * Problem 21
   * Insert an element at a given position into a list. (easy)
   * [Problem 21](solutions/20s/prob21.re)
+* Problem 22
+  * Create a list containing all integers within a given range. (easy)
+  * [Problem 22](solutions/20s/prob22.re)
+* Problem 23
+  * Extract a given number of randomly selected elements from a list. (medium)
+  * [Problem 23](solutions/20s/prob23.re)
 ## I'll probably take a break here
