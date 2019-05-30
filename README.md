@@ -82,4 +82,19 @@ I will be using the auxilary function styling, it's just my preference.
 * Problem 23
   * Extract a given number of randomly selected elements from a list. (medium)
   * [Problem 23](solutions/20s/prob23.re)
+* Problem 24
+  * Lotto: Draw N different random numbers from the set 1..M. (easy)
+  * [Problem 24](solutions/20s/prob24.re)
+* Problem 25
+  * Generate a random permutation of the elements of a list. (easy)
+  * [Problem 25](solutions/20s/prob25.re)
+* Problem 26
+  * Generate the combinations of K distinct objects chosen from the N elements of a list. (medium)
+  * [Problem 26](solutions/20s/prob26.re)
+* Problem 27
+  * Group the elements of a set into disjoint subsets. (medium)
+  * [Problem 27](solutions/20s/prob27.re)
+* Problem 30
+  * Determine the greatest common divisor of two positive integer numbers. (medium)
+  * [Problem 30](solutions/30s/prob30.re)
 ## I'll probably take a break here
